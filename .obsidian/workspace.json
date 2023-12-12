@@ -4,15 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "4c858fc918bb43c7",
+        "id": "3376b973389b507b",
         "type": "tabs",
         "children": [
           {
-            "id": "b429c9a3a05a9b85",
+            "id": "4846d40e9b28e639",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "flow-control-and-loops.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34a67acbcd848c36",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "files/image_k.png"
+              }
             }
           }
         ]
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "flow-control-and-loops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "flow-control-and-loops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "flow-control-and-loops.md"
+              }
             }
           }
         ]
@@ -138,6 +156,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b429c9a3a05a9b85",
-  "lastOpenFiles": []
+  "active": "6575ef43b27ad043",
+  "lastOpenFiles": [
+    "files/image_k.png",
+    "files/image_r.png",
+    "flow-control-and-loops.md",
+    "programming-paradigms.md",
+    "https-notes-webutvikling-org-performance-velocit.md",
+    "image.png",
+    "do-we-really-need-variables.md",
+    "files/image_8.png",
+    "concepts.md",
+    "compsci-with-stapleton.md",
+    "domain-setup-example.md",
+    "files/image.png 1.md",
+    "files/image.png",
+    "doug.md",
+    "Anytype.20231211.213504.52/files/image.png",
+    "Anytype.20231211.213504.52/files",
+    "Anytype.20231211.213504.52",
+    "files/image.png.md",
+    "final-static-abstract-reserved-keywords.md",
+    "code-quality-scanners.md",
+    "ci-cd-continuous-integration-continuous-delivery.md",
+    "build-systems-compilers.md",
+    "bookmarks.md",
+    "all-objects.md",
+    "notes.md",
+    "naming-schemes-patterns.md",
+    "its-your-code-write-style-it-how-you-want.md",
+    "https-en-wikipedia-org-wiki-procedural_programmi.md",
+    "get-set-and-their-roided-cousins-supplier-consum.md",
+    "_t.md",
+    "_a.md",
+    "_5.md",
+    "files",
+    "version-control-systems-git.md"
+  ]
 }
